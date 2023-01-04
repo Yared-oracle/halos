@@ -431,6 +431,10 @@ span{
     margin-bottom: 15px;
     color: var(--text-color);
 }
+.con-box h3:hover{
+    color: var(--main-color);
+    cursor: pointer;
+               }
 
 .con-box h5{
     font-size: 1rem;
@@ -438,12 +442,21 @@ span{
     margin-bottom: 5px;
     color: var(--text-color);
 }
+
+.con-box h5:hover{
+    color: var(--main-color);
+    cursor: pointer;
+               }
 .con-box h6{
     font-size: 1rem;
     font-weight: 500;
     margin-bottom: 5px;
     color: var(--text-color);
 }
+.con-box h6:hover{
+    color: var(--main-color);
+    cursor: pointer;
+               }
 /*start bottom*/
 .bottom{
     width: 100%;
